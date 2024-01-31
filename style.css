@@ -50,6 +50,7 @@
 
 .page__header {
     position: fixed;
+    z-index: 2;
 }
 
 .nav {
